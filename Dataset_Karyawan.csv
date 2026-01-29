@@ -1,0 +1,112 @@
+﻿ID,Nama,Gender,Umur,Status,Pendidikan,Divisi,Jabatan,Jarak_KM,Max_Shift,Preferensi,Rating,Lama_Kerja/Tahun
+K001,Andi Saputra,Laki-laki,25,Belum Menikah,SMA,Operasional,Kasir,36,5,Pagi,4.5,2
+K002,Budi Santoso,Laki-laki,28,Menikah,D3,Operasional,Kasir,13,5,Pagi,3.8,4
+K003,Citra Lestari,Perempuan,26,Belum Menikah,S1,Operasional,Admin,51,5,Sore,4.2,3
+K004,Dewi Anggraini,Perempuan,30,Menikah,S1,Operasional,Admin,5,5,Sore,4.9,6
+K005,Eko Pratama,Laki-laki,32,Menikah,D3,Operasional,Teknisi,36,5,Pagi,4,8
+K006,Fajar Hidayat,Laki-laki,27,Belum Menikah,SMA,Operasional,Teknisi,51,5,Malam,3.5,3
+K007,Gilang Ramadhan,Laki-laki,24,Belum Menikah,SMA,Operasional,Kasir,52,5,Pagi,4.1,1
+K008,Hani Putri,Perempuan,29,Menikah,S1,Operasional,Admin,50,5,Malam,4.7,5
+K009,Irwan Maulana,Laki-laki,34,Menikah,D3,Operasional,Kasir,12,5,Pagi,4.8,10
+K010,Joko Susilo,Laki-laki,36,Menikah,SMA,Operasional,Teknisi,11,5,Sore,3.9,12
+K011,Kartika Sari,Perempuan,27,Belum Menikah,S1,Operasional,Admin,50,5,Pagi,4.3,3
+K012,Lukman Hakim,Laki-laki,31,Menikah,SMA,Operasional,Kasir,50,5,Malam,3.6,7
+K013,Maya Anindya,Perempuan,24,Belum Menikah,S1,Operasional,Admin,50,5,Sore,4.4,1
+K014,Nanda Putra,Laki-laki,33,Menikah,D3,Operasional,Teknisi,51,5,Pagi,4,9
+K015,Oki Firmansyah,Laki-laki,29,Menikah,SMA,Operasional,Kasir,15,5,Sore,3.7,5
+K016,Putri Maharani,Perempuan,26,Belum Menikah,S1,Operasional,Admin,8,5,Pagi,4.6,2
+K017,Qori Aulia,Perempuan,28,Menikah,S1,Operasional,Kasir,22,5,Sore,4.2,4
+K018,Rahmat Hidayat,Laki-laki,35,Menikah,D3,Operasional,Teknisi,45,5,Malam,3.8,11
+K019,Salsa Nabila,Perempuan,23,Belum Menikah,SMA,Operasional,Admin,30,5,Pagi,4.5,1
+K020,Teguh Prakoso,Laki-laki,37,Menikah,SMA,Operasional,Kasir,5,5,Malam,4.9,13
+K021,Umar Faruq,Laki-laki,34,Menikah,D3,Operasional,Teknisi,10,5,Pagi,4.1,10
+K022,Vina Oktaviani,Perempuan,27,Belum Menikah,S1,Operasional,Admin,3,5,Sore,4.3,3
+K023,Wahyu Kurniawan,Laki-laki,31,Menikah,SMA,Operasional,Kasir,7,5,Pagi,4,7
+K024,Xena Pratiwi,Perempuan,25,Belum Menikah,S1,Operasional,Admin,2,5,Malam,4.4,2
+K025,Yoga Permana,Laki-laki,36,Menikah,D3,Operasional,Teknisi,12,5,Sore,3.9,12
+K026,Zahra Amalia,Perempuan,24,Belum Menikah,S1,Operasional,Admin,1,5,Pagi,4,1
+K027,Agus Setiawan,Laki-laki,33,Menikah,SMA,Operasional,Kasir,9,5,Sore,4.1,9
+K028,Bella Cahyani,Perempuan,28,Menikah,S1,Operasional,Admin,4,5,Pagi,4.3,4
+K029,Cahyo Nugroho,Laki-laki,35,Menikah,D3,Operasional,Teknisi,11,5,Malam,3.8,11
+K030,Dian Puspita,Perempuan,29,Menikah,S1,Operasional,Admin,5,5,Pagi,4.7,5
+K031,Erik Saptono,Laki-laki,26,Belum Menikah,SMA,Operasional,Kasir,3,5,Sore,3.6,3
+K032,Fani Lestari,Perempuan,31,Menikah,S1,Operasional,Admin,7,5,Pagi,4.4,7
+K033,Guntur Prabowo,Laki-laki,38,Menikah,D3,Operasional,Teknisi,14,5,Malam,4,14
+K034,Hendra Wijaya,Laki-laki,34,Menikah,SMA,Operasional,Kasir,10,5,Pagi,3.7,10
+K035,Intan Permata,Perempuan,27,Belum Menikah,S1,Operasional,Admin,3,5,Sore,4.6,3
+K036,Jefri Kurniawan,Laki-laki,36,Menikah,D3,Operasional,Teknisi,12,5,Pagi,4.2,12
+K037,Kiki Amelia,Perempuan,24,Belum Menikah,S1,Operasional,Admin,1,5,Sore,3.8,1
+K038,Luthfi Ramadhan,Laki-laki,29,Menikah,SMA,Operasional,Kasir,5,5,Pagi,4.5,5
+K039,Maulana Akbar,Laki-laki,37,Menikah,D3,Operasional,Teknisi,13,5,Malam,4.1,13
+K040,Nina Oktavia,Perempuan,32,Menikah,S1,Operasional,Admin,8,5,Pagi,3.9,8
+K041,Omar Hasan,Laki-laki,28,Belum Menikah,SMA,Operasional,Kasir,4,5,Sore,4.3,4
+K042,Putra Wijaya,Laki-laki,35,Menikah,D3,Operasional,Teknisi,11,5,Pagi,3.8,11
+K043,Qinan Safira,Perempuan,26,Belum Menikah,S1,Operasional,Admin,2,5,Sore,4.7,2
+K044,Rendi Setiawan,Laki-laki,33,Menikah,SMA,Operasional,Kasir,9,5,Pagi,3.6,9
+K045,Sinta Ayuningtyas,Perempuan,29,Menikah,S1,Operasional,Admin,5,5,,4.4,5
+K046,Taufik Hidayat,Laki-laki,36,Menikah,D3,Operasional,Teknisi,12,5,Pagi,4,12
+K047,Ulfah Rahma,Perempuan,25,Belum Menikah,S1,Operasional,Admin,2,5,Sore,3.7,2
+K048,Vicky Prasetyo,Laki-laki,31,Menikah,SMA,Operasional,Kasir,7,5,Pagi,4.6,7
+K049,Wulan Sari,Perempuan,28,Menikah,S1,Operasional,Admin,4,5,Sore,4.2,4
+K050,Yusuf Kurnia,Laki-laki,34,Menikah,D3,Operasional,Teknisi,10,5,Pagi,3.8,7
+K051,Ahmad Fauzi,Laki-laki,27,Belum Menikah,SMA,Staff Operasional,Kasir,3,5,pagi,4.5,4
+K052,Bunga Maharani,Perempuan,30,Menikah,S1,Staff Operasional,Admin,6,5,sore,4.2,3
+K053,Candra Wijaya,Laki-laki,35,Menikah,D3,Staff Operasional,Teknisi,11,5,Malam,3.2,5
+K054,Dina Kartika,Perempuan,26,Belum Menikah,S1,Staff Operasional,Admin,2,5,Malam,3.3,6
+K055,Evan Nugraha,Laki-laki,32,Menikah,SMA,Staff Operasional,Kasir,8,5,Malam,3.6,7
+K056,Fitria Lestari,Perempuan,28,Menikah,S1,Staff Operasional,Admin,4,5,Malam,3.2,2
+K057,Galih Pratama,Laki-laki,36,Menikah,D3,Staff Operasional,Teknisi,12,5,Sore,4,1
+K058,Hilda Nuraini,Perempuan,29,Menikah,S1,Staff Operasional,Admin,5,5,Pagi,4.5,4
+K059,Irfan Maulana,Laki-laki,31,Menikah,SMA,Staff Operasional,Kasir,7,5,Sore,3.7,3
+K060,Jihan Aulia,Perempuan,24,Belum Menikah,S1,Staff Operasional,Admin,1,5,Pagi,4.2,2
+K061,Kurniawan,Laki-laki,35,Menikah,D3,Staff Operasional,Teknisi,11,5,Sore,3.2,4
+K062,Lia Oktaviani,Perempuan,27,Belum Menikah,S1,Staff Operasional,Admin,3,5,Sore,3.3,3
+K063,Muhammad Rizki,Laki-laki,33,Menikah,SMA,Staff Operasional,Kasir,9,5,Sore,3.6,2
+K064,Nurul Hidayah,Perempuan,30,Menikah,S1,Staff Operasional,Admin,6,5,Sore,3.2,6
+K065,Oktavian Putra,Laki-laki,37,Menikah,D3,Staff Operasional,Teknisi,13,5,Sore,4,5
+K066,Putri Cahaya,Perempuan,26,Belum Menikah,S1,Staff Operasional,Admin,2,5,Sore,4.5,3
+K067,Rahman Hakim,Laki-laki,32,Menikah,SMA,Staff Operasional,Kasir,8,5,Sore,3.7,2
+K068,Sari Puspita,Perempuan,28,Menikah,S1,Staff Operasional,Admin,4,5,Sore,3,1
+K069,Toni Saputra,Laki-laki,36,Menikah,D3,Staff Operasional,Teknisi,12,5,Malam,4,3
+K070,Usman Ali,Laki-laki,29,Menikah,SMA,Staff Operasional,Kasir,5,5,Malam,4.5,5
+K071,Vera Anggraini,Perempuan,31,Menikah,S1,Staff Operasional,Admin,7,5,Malam,3.6,3
+K072,Wisnu Pratama,Laki-laki,35,Menikah,D3,Staff Operasional,Teknisi,11,5,Sore,3.8,5
+K073,Yani Lestari,Perempuan,27,Belum Menikah,S1,Staff Operasional,Admin,3,5,Pagi,3.9,3
+K074,Zaki Ramadhan,Laki-laki,33,Menikah,SMA,Staff Operasional,Kasir,9,5,Sore,4.6,5
+K075,Ayu Permata,Perempuan,25,Belum Menikah,S1,Staff Operasional,Admin,2,5,Malam,4.8,6
+K076,Bram Setiawan,Laki-laki,34,Menikah,D3,Staff Operasional,Teknisi,10,5,Pagi,4,8
+K077,Cici Andini,Perempuan,28,Menikah,S1,Staff Operasional,Admin,4,5,Malam,4.6,3
+K078,Dodi Firmansyah,Laki-laki,31,Menikah,SMA,Staff Operasional,Kasir,7,5,Sore,4.7,2
+K079,Elsa Pertiwi,Perempuan,26,Belum Menikah,S1,Staff Operasional,Admin,2,5,Pagi,4.8,5
+K080,Fauzan Akbar,Laki-laki,35,Menikah,D3,Staff Operasional,Teknisi,11,5,Pagi,4.4,6
+K081,Gita Rahmani,Perempuan,29,Menikah,S1,Staff Operasional,Admin,5,5,Sore,4.5,7
+K082,Hakim Prasetyo,Laki-laki,32,Menikah,SMA,Staff Operasional,Kasir,8,5,Sore,4.5,4
+K083,Indah Wulandari,Perempuan,27,Belum Menikah,S1,Staff Operasional,Admin,3,5,Pagi,4.4,5
+K084,Januar Pratama,Laki-laki,36,Menikah,D3,Staff Operasional,Teknisi,12,5,Malam,3.4,6
+K085,Khalid Maulana,Laki-laki,30,Menikah,SMA,Staff Operasional,Kasir,6,5,Pagi,3.6,5
+K086,Laila Fitriani,Perempuan,25,Belum Menikah,S1,Staff Operasional,Admin,2,5,Malam,4.7,3
+K087,Miko Saputra,Laki-laki,34,Menikah,D3,Staff Operasional,Teknisi,10,5,Sore,4.7,3
+K088,Nadya Putri,Perempuan,28,Menikah,S1,Staff Operasional,Admin,4,5,Pagi,4.5,4
+K089,Oki Maulana,Laki-laki,31,Menikah,SMA,Staff Operasional,Kasir,7,5,Pagi,4.6,3
+K090,Putra Nugraha,Laki-laki,35,Menikah,D3,Staff Operasional,Teknisi,11,5,Sore,4.5,2
+K091,Rina Handayani,Perempuan,29,Menikah,S1,Staff Operasional,Admin,5,5,Sore,4.5,5
+K092,Sapto Widodo,Laki-laki,33,Menikah,SMA,Staff Operasional,Kasir,9,5,Pagi,4.7,3
+K093,Tasya Amalia,Perempuan,26,Belum Menikah,S1,Staff Operasional,Admin,2,5,Pagi,4.6,2
+K094,Ubay Pratama,Laki-laki,36,Menikah,D3,Staff Operasional,Teknisi,12,5,Sore,3.6,4
+K095,Vina Safitri,Perempuan,28,Menikah,S1,Staff Operasional,Admin,5,5,Malam,3.4,2
+K096,Wahyu Firmansyah,Laki-laki,26,Belum Menikah,SMA,Staff Operasional,Kasir,3,5,Malam,3.3,5
+K097,Yudha Saputra,Laki-laki,35,Menikah,D3,Staff Operasional,Teknisi,11,5,Sore,3.7,3
+K098,Zulaikha Putri,Perempuan,24,Belum Menikah,S1,Staff Operasional,Admin,1,5,Pagi,3.6,5
+K099,Aditya Kurniawan,Laki-laki,31,Menikah,SMA,Staff Operasional,Kasir,7,5,Pagi,3.5,3
+K100,Bayu Setiawan,Laki-laki,33,Menikah,D3,Staff Operasional,Teknisi,9,5,Malam,3.5,3
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,0,,
